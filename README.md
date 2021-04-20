@@ -15,4 +15,4 @@ Move project to production mode with: <b>npm run build</b><br/>
     babel-loader<br/>
     babel-preset-env<br/>
     babel-preset-stage-2<br/>
-<h5>Note: Every package used is latest version expect for <b>babel-loader</b> which is <b>7.1.5</b> .</h5>
+<h4>Note: Every package used is latest version expect for <b>babel-loader</b> which is <b>7.1.5</b>.</h4>
