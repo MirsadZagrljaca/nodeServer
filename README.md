@@ -1,13 +1,13 @@
 <h1>My First NodeJS Server</h1><br/>
 
-<h5>Start project with: <b>npm start</b><br/>
-Move project to production mode with: <b>npm run build</b><br/></h5>
+Start project with: <b>npm start</b><br/>
+Move project to production mode with: <b>npm run build</b><br/><br/>
 <br/>
-<h3>Packages used:<br/></h3>
-  <h4>Production mode:</h4><br/>
+<h3>Packages used:</h3>
+  <h4>Production mode:</h4>
     express<br/>
     body-parser<br/>
-  <h4>Development mode:</h4><br/>
+  <h4>Development mode:</h4>
     nodemon<br/>
     webpack<br/>
     babel-core<br/>
