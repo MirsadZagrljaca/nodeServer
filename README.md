@@ -3,7 +3,7 @@
 Start project with: <b>npm start</b><br/>
 Move project to production mode with: <b>npm run build</b><br/>
 <br/>
-<h4>Packages used:<br/><br/></h4>
+<h3>Packages used:<br/><br/></h3>
   Production mode:<br/>
     express<br/>
     body-parser<br/><br/>
