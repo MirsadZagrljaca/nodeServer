@@ -1,7 +1,7 @@
 <h1>My First NodeJS Server</h1><br/>
 
 Start project with: <b>npm start</b><br/>
-Move project to production mode with: <b>npm run build</b><br/><br/>
+Move project to production mode with: <b>npm run build</b><br/>
 <br/>
 <h3>Packages used:</h3>
   <h4>Production mode:</h4>
