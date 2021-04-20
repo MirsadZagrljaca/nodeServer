@@ -7,6 +7,7 @@ Move project to production mode with: <b>npm run build</b><br/>
   <h4>Production mode:</h4>
     express<br/>
     body-parser<br/>
+    helmet<br/>
   <h4>Development mode:</h4>
     nodemon<br/>
     webpack<br/>
